@@ -2,7 +2,7 @@
 
 ## About me
 - 🏫 [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/) - University of Bucharest Computer Science - 2nd Year
-- 📟 Lookin' fowkard to [Security and Applied Logic](https://sal.cs.unibuc.ro/)
+- 📟 Lookin' forward to [Security and Applied Logic](https://sal.cs.unibuc.ro/)
 - 🐤 Tutoring
 - 📝 Math Enjoyer
 - 🦍 Workin' Out
