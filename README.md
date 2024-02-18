@@ -26,6 +26,8 @@
 <img src="https://github.com/Matoka26/Matoka26/assets/106425405/18a6f1b4-3d22-4b58-b95d-1c1d3e4eb8cd" width=50 height=50 alt="ANGULAR">
 
 ### Others
+<img src="https://github.com/Matoka26/Matoka26/assets/106425405/36b71924-78c8-4226-9922-0decccac4621" width=40 height=40 alt="GIT">
+<img src="https://github.com/Matoka26/Matoka26/assets/106425405/83910f7d-b3c4-41ba-8206-4824d5f4676a" width=40 height=40 alt="GITHUB">
 <img src="https://github.com/Matoka26/Matoka26/assets/106425405/0f66ade0-8c69-4dfb-935d-472ab50183cd" width=40 height=45 alt="LINUX">
 <img src="https://github.com/Matoka26/Matoka26/assets/106425405/25fe335c-db48-4e86-89ef-8992fe5dd58b" width=40 height=45 alt="ASM">
 <img src="https://github.com/Matoka26/Matoka26/assets/106425405/45f42bde-3b6e-4239-a9b6-ad44457d2030" width=40 height=40 alt="PL">
