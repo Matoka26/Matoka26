@@ -4,9 +4,10 @@
 - 🏫 [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/) - University of Bucharest Computer Science - 2nd Year
 - 📟 Lookin' forward to [Security and Applied Logic](https://sal.cs.unibuc.ro/)
 - 🐤 Tutoring
-- 📝 Math Enjoyer
+- 📝 Meth Enjoyer
 - 🦍 Workin' Out
 - 🐝 Beekeeper
+- 🧪 Can't spell "Math"
 
 ## 🖥Tech Stack
 <img align="right" alt="Matrix" height=350 src="https://github.com/Matoka26/Matoka26/assets/106425405/b886e469-a734-415f-bafa-8570055d7ebd">
