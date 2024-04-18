@@ -20,7 +20,7 @@
   <img src="https://github.com/Matoka26/Matoka26/assets/106425405/58950e80-2f61-4038-ad07-e79e1e48e221" width=35 height=40 alt="PY">
   <img src="https://github.com/Matoka26/Matoka26/assets/106425405/f905f766-6eb0-4e85-b6d3-0abc0330f4b6" width=50 height=40 alt="PL/SQL">
   <img src="https://github.com/Matoka26/Matoka26/assets/106425405/0e58df5b-465d-4a96-8c67-1e36c2c1da7d" width=40 height=40 alt=".NET">
-  
+  <br>
   <img src="https://github.com/Matoka26/Matoka26/assets/106425405/36b71924-78c8-4226-9922-0decccac4621" width=40 height=40 alt="GIT">
   <img src="https://github.com/Matoka26/Matoka26/assets/106425405/83910f7d-b3c4-41ba-8206-4824d5f4676a" width=40 height=40 alt="GITHUB">
   <img src="https://github.com/Matoka26/Matoka26/assets/106425405/0f66ade0-8c69-4dfb-935d-472ab50183cd" width=40 height=45 alt="LINUX">
