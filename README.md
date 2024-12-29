@@ -4,7 +4,7 @@
 ## About me
 - 🏫 [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/) - University of Bucharest Computer Science - 3rd Year
 - 📟 Lookin' forward to [Security and Applied Logic](https://sal.cs.unibuc.ro/)
-- 🏴‍☠️ SystemVerilog Enjoyer
+- 🏴‍☠️ Fourier Enjoyer
 - 🦍 Workin' Out
 - 🐝 Beekeeper
 
