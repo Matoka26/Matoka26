@@ -3,6 +3,7 @@
 
 ## About me
 - 🏫 [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/) - University of Bucharest Computer Science - 3rd Year
+- 🔮 Silicon Sorcerer
 - 🏴‍☠️ Fourier Enjoyer
 - 🦍 Workin' Out
 - 🐝 Beekeeper
