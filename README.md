@@ -2,7 +2,7 @@
 <img align="right" alt="Matrix" height=350 src="https://github.com/Matoka26/Matoka26/assets/106425405/b886e469-a734-415f-bafa-8570055d7ebd">
 
 ## About me
-- 🏫 [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/) - University of Bucharest Computer Science - 3rd Year
+- 🏫 [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/) - University of Bucharest - Data Science
 - 👽 [Spotiy](https://open.spotify.com/user/2cxjmc30b79ytqh9r4bovvd81?si=e186b9879c8e450d)
 - 🔮 Silicon Sorcerer
 - 🏴‍☠️ Fourier Enjoyer
